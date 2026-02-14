@@ -1,4 +1,5 @@
 body {
+<<<<<<< HEAD
     text-align: center;
     font-family: "Happy Monkey", system-ui;
     font-weight: 400;
@@ -70,3 +71,34 @@ body {
     font-style: italic;
     margin: 40px auto 20px;
 }
+=======
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.prof {
+    width: 150px;
+    margin: 50% auto; /* centered img */
+    
+}
+
+.card {
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    /* margin-left: auto;
+    margin-right: auto; --> instead of this*/
+    margin: 0 auto;
+    width: 400px;
+    color: #2b2839;
+    background: #ddebf8;
+    border-bottom: 4px solid #d8cefe;
+    border-radius: 20px;
+}
+
+.borderblue {
+    border: 2px dotted blue;
+    text-align: center;
+}
+
+>>>>>>> 12b130a (all done)
